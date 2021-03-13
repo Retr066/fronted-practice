@@ -1,0 +1,15 @@
+{
+  "name": "practica_fronted",
+  "version": "1.0.0",
+  "description": "Practicar html y css ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "html"
+  ],
+  "author": "Jherson Lopez",
+  "license": "MIT"
+}
